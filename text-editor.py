@@ -56,6 +56,6 @@ command=FontCourier)
 font.menu.add_checkbutton(label="Helvetica", variable=Helvetica,
 command=FontHelvetica) 
 
-
+root.configure(bg="gray25")
 root.mainloop()
 
